@@ -1,6 +1,6 @@
 {
-    "homepage": "http://youcefhmd.github.io/TIC-TAC-TOE-GAME",
-    "name": "tic-tac-toe-game",
+    "homepage": ".",
+    "name": "crickx-travel",
     "version": "0.1.0",
     "private": true,
     "dependencies": {
@@ -41,6 +41,12 @@
         ]
     },
     "devDependencies": {
-        "gh-pages": "^4.0.0"
+        "@types/react": "^18.3.11",
+        "@types/react-dom": "^18.3.0",
+        "autoprefixer": "^10.4.8",
+        "gh-pages": "^4.0.0",
+        "postcss": "^8.4.16",
+        "tailwindcss": "^3.1.8",
+        "typescript": "^4.8.2"
     }
 }
